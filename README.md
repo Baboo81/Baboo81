@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Cover](https://github.com/Baboo81/Baboo81/master/foret.jpg)
+![Cover](https://github.com/Baboo81/Baboo81/edit/master/foret.jpg)
 <!--
 **Baboo81/Baboo81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
