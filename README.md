@@ -1,4 +1,5 @@
 ### Hi, I'm Chris  👋
+###      FRONT-END DEVELOPER
 ![Cover](https://github.com/Baboo81/Baboo81/blob/master/img/foret.jpg)
 
 <!--
