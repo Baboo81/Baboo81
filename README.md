@@ -1,10 +1,6 @@
 ### Hi, I'm Chris  👋
 ![Cover](https://github.com/Baboo81/edit/master/foret.jpg)
-######################################################
-#                                                    #
-#                   Front-End developer              #
-#                                                    #
-######################################################
+
 <!--
 **Baboo81/Baboo81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
