@@ -1,5 +1,5 @@
 ### Hi, I'm Chris  👋
-###      FRONT-END DEVELOPER
+###      Font-end developer
 ![Cover](https://github.com/Baboo81/Baboo81/blob/master/img/foret.jpg)
 
 <!--
