@@ -1,5 +1,5 @@
 ### Hi, I'm Chris  👋
-###      Front-end developer
+###      Front-end developer junior
 ![Cover](https://github.com/Baboo81/Baboo81/blob/master/img/foret.jpg)
 
 <!--
