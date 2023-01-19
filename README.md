@@ -1,5 +1,5 @@
 ### Hi, I'm Chris  👋
-![Cover](https://github.com/Baboo81/Baboo81/edit/master/README.md/ForetGit/foret.jpg)
+![Cover](https://github.com/Baboo81/Baboo81/blob/master/img/foret.jpg)
 
 <!--
 **Baboo81/Baboo81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
