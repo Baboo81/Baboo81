@@ -1,5 +1,5 @@
 ### Hi, I'm Chris  👋
-###      Web developer 
+###      Web developer / Full Stack
 ![Cover](https://github.com/Baboo81/Baboo81/blob/master/img/Kenko.png)
 
 <!--
